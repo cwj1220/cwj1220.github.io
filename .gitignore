@@ -19,4 +19,6 @@ package-lock.json
 .idea
 
 # Misc
-assets/js/dist
+## assets/js/dist 
+#로컬에서는 assets/js/dist/*.min.js 파일이 존재하여 정상 동작했지만,
+#위 설정을 하지 않고 배포할 경우 Github에는 해당 파일이 push되지 않으므로 블로그 기능이 정상 동작하지 않음.
