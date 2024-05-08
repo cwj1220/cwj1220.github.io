@@ -27,13 +27,13 @@ url: "https://github.com/CHOIWJ1220"
 github:
   username: CHOIWJ1220 # change to your github username
 
-twitter:
-  username: Ostrich  # change to your twitter username
+#twitter:
+ # username: Ostrich  # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Won Joon Choi
+  name: WJ's
   email: asdf658741@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
